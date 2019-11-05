@@ -1,6 +1,7 @@
 body {
     margin:0;
     padding:0;
+    background-image: url("../images/ripples.png");
 }
 header {
     background-color: white;
@@ -20,6 +21,7 @@ h1 {
     padding: 1.5rem;
     float: left;
     margin:0;
+    font-size: 30px;
 }
 .navbar {
     float: right;
@@ -29,8 +31,16 @@ h1 {
 .navbar td {
     padding: 20px;
 }
+.main-content {
+    background-color: white;
+    border: 1px solid #ccc;
+    margin: 30px auto;
+    padding: 20px;
+}
 h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #4aaaa5;
+    font-size: 30px;
 }
 .headshot {
     float: left;
