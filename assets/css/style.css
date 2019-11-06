@@ -136,3 +136,16 @@ form {
     height:100%;
     background-size:cover;
 }
+.teal-box {
+    background-color: #4aaaa5;
+    width: 100%;
+    height: 45px;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    vertical-align: center;
+}
+.teal-caption {
+    line-height: 1;
+    color: white;
+}
