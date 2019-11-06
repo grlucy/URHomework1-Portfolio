@@ -129,7 +129,7 @@ form {
     width: 280px;
     height: 225px;
     position:relative;
-    margin: 0 30px 50px 0;
+    margin: 0 30px 40px 0;
 }
 .portfolio img {
     width:100%;
@@ -148,4 +148,8 @@ form {
 .teal-caption {
     line-height: 1;
     color: white;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
 }
