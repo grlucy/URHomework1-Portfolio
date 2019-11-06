@@ -31,12 +31,19 @@ h1 {
     color: #777;
     margin: 29px 0;
 }
-.navbar td {
-    padding: 0 20px;
+.navbar li {
+    display:inline;
 }
-.row-border {
+.nav-start {
+    padding: 0 15px;
+}
+.nav-mid {
     border-left: 1px solid #ccc;
     border-right: 1px solid #ccc;
+    padding: 0 15px;
+}
+.nav-end {
+    padding: 0 0 0 15px;
 }
 .main-content {
     background-color: white;
