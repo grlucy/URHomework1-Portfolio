@@ -3,6 +3,11 @@ body {
     padding:0;
     background-image: url("../images/ripples.png");
 }
+.wrapper {
+    min-height: calc(100vh - 58px);
+    margin:0;
+    padding:0;
+}
 header {
     background-color: white;
     border-bottom: 2px solid #ccc;
@@ -77,10 +82,11 @@ footer {
     background-color: #666;
     border-top: 8px solid #4aaaa5;
     clear:both;
+    height:50px;
 }
 .center-text {
     text-align: center;
-    padding: 20px 0 3px 0;
+    padding: 20px 0 0 0;
 }
 .copyright {
     color: white;
