@@ -54,7 +54,7 @@ h1 {
     background-color: white;
     border: 1px solid #ddd;
     margin: 30px auto;
-    padding: 0 20px;
+    padding: 0 20px 20px 20px;
 }
 h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -62,11 +62,6 @@ h2 {
     font-size: 30px;
     line-height: 2;
     border-bottom: 2px solid #ccc;
-}
-.headshot {
-    float: left;
-    width: 160px;
-    margin: 0 35px 15px 0;
 }
 p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -91,4 +86,40 @@ footer {
 .copyright {
     color: white;
     font-size: 10px;
+}
+
+/* About page */
+.headshot {
+    float: left;
+    width: 160px;
+    margin: 0 35px 15px 0;
+}
+
+/* Contact page */
+#full-name, #email {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom:15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin-bottom:15px;
+}
+.clickme {
+    border:none;
+    background-color:#4aaaa5;
+    padding: 8px 20px;
+    color: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 14px;
+}
+form {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    line-height: 1.75;
 }
