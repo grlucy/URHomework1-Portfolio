@@ -1,7 +1,7 @@
 # URHomework1-Portfolio
 
 ## Description
-This is the site I made for the University of Richmond Bootcamp Homework #1: Portfolio assignment. I used HTML, Git, and CSS to develop this portfolio while following a set of specifications and a style guide.
+This is the site I made for the University of Richmond Bootcamp Homework #1: Portfolio assignment. I used HTML, Git, and CSS to develop this portfolio while following a set of specifications and a style guide. It is deployed using Github Pages.
 
 As a web developer, I need to deploy a portfolio site that will exhibit my experience and encourage employers and clients to hire me. This site also provides a space to introduce myself and enables employers and clients to get in touch with me.
 
